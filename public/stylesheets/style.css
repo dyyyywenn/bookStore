@@ -1,0 +1,42 @@
+/* body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+} */
+
+li.nav-item {
+    margin-right: 25px;
+    margin-top: 5px;
+}
+
+li.nav-item a.nav-link {
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+}
+
+li.nav-item a.nav-link:hover {
+    text-decoration: none;
+    color: green!important;
+}
+
+a.navbar-brand.fw-bolder {
+    margin-left: 40px;
+    margin-right: 25px;
+}
+
+.col-right img {
+    margin-left: 250px;
+    width: 530px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 20px;
+}
